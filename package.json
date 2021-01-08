@@ -1,6 +1,6 @@
 {
-  "name": "marks-pane",
-  "version": "1.0.9",
+  "name": "@loopspeed/marks-pane",
+  "version": "1.0.0",
   "description": "A library for drawing marks on a pane",
   "homepage": "https://github.com/fchasen/marks",
   "bugs": {
